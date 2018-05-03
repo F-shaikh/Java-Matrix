@@ -1,8 +1,3 @@
-// Faisal Shaikh, Fshaikh1@ucsc.edu
-// Student ID #: 1463626
-// Due Date: 11/5/17
-// PA3
-
 public class List {
     // class List Data
     private int cursorIndex; // Index of current element that cursor is pointing at
