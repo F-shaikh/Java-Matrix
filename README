@@ -1,0 +1,12 @@
+Faisal Shaikh, Fshaikh1@ucsc.edu
+Student ID#: 1463626
+Due Date: 11/5/17
+PA3
+
+1. Sparse.java     ... Sparse is the main file and it takes cares of file I/O and creates matrices. Sparse performs tests and outputs it to a file.
+2. Matrix.java     ... Matrix.java implements a Matrix ADT which defines the Matrix class. It has several access functions and some helper functions. 
+3. List.java       ... List.java contains old code that implemented a List ADT, but now implements a List of Objects instead.
+4. MatrixTest.java ... MatrixTest.java was provided by the professor, and has simple tests that test Matrix access functions.
+5. ListTest.java   ... ListTest.java was provided by the TA, and has extensive tests that test the List access functions.
+6. Makefile        ... The Makefile was provided by the professor and creates an executable jar file called Sparse.
+7. README          ... The README has table of contents that briefly describes each file and what it does.
