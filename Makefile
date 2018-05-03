@@ -1,14 +1,3 @@
-# Faisal Shaikh, fshaikh1@ucsc.edu
-# Student ID#: 1463626
-# Due Date: 11/5/17
-# PA3
-
-#------------------------------------------------------------------------------
-#  Makefile for CMPS 101 pa3
-#  Creates an executable jar file called Sparse.  This makefile will compile 
-#  all .java files in your current working directory.  
-#------------------------------------------------------------------------------
-
 MAINCLASS  = Sparse
 JAVAC      = javac 
 JAVASRC    = $(wildcard *.java)
